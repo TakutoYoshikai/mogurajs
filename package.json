@@ -1,0 +1,11 @@
+{
+  "name": "mogurajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takuto Yoshikai <takuto.yoshikai@gmail.com> (https://yoshikai.net/en)",
+  "license": "ISC"
+}
